@@ -9,10 +9,13 @@
 | Name |
 |------|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
-|[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
+|[Kesava Reddy Dwarampudi](https://github.com/KesavaR
+|[Seshank](https://github.com/seshank900)|
+
+
+
 
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
-|[Janaki Vallabhaneni ](https://github.com/Janaki60)|
 
 
 
